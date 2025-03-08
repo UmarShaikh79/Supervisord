@@ -1,0 +1,4 @@
+dev/*.ini
+staging/*.ini
+production/*.ini
+uat/*.ini
